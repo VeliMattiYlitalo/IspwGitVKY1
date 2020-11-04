@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
+ispwEditing=TRUE
+ispwGitAssignDesc=${user}-${project_name}
 ispwMappingLevel=DEV1
-ispwYamlConfigPath=C\:/Users/cwfi-vylitalo/Compuware/Workbench/workspace topaz workbench 20.4/GitVKY1\\ispwconfig.yml
+ispwYamlConfigPath=C\:\\Users\\cwfi-vylitalo\\git\\IspwGitVKY1\\ispwconfig.yml
