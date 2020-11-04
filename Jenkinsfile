@@ -22,8 +22,6 @@ node {
 	ispwOperation connectionId: '91bae501-8b4d-4155-909d-2ad5aa9f3131',
 	credentialsId: 'HFIVKY0_CES',
 	ispwAction: 'BuildAssignment',
-	ispwRequestBody: '''assignmentId=VKY1000009
-	level=DEV1
-	'''
+	ispwRequestBody:  '''buildautomatically = true'''
   }
 }
