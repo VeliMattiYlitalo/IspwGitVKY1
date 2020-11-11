@@ -6,7 +6,7 @@
       *                                                                *
       *  THIS CALLED PROGRAM IS THE COBOL DEMO PROGRAM USED FOR        *
       *  XPEDITER/TSO TRAINING SESSIONS.                               *
-      *  MIKA2                                                          *
+      *  MIKA3                                                          *
       ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
